@@ -1,0 +1,36 @@
+header {
+  margin-bottom: 10px;
+}
+.main_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main_header_menu {
+  margin-left: 30px;
+}
+.main_header_menu {
+  width: 30px;
+}
+.main_header_icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+}
+.main_header_icon img {
+  margin-right: 10px;
+  width: 30px;
+}
+.main_header_title {
+  text-align: center;
+  margin-left: 50px;
+}
+.main_header_title h2 {
+  font-family: "Noto Serif", serif;
+}
+.main_header_title span {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
