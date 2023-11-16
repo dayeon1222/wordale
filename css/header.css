@@ -29,7 +29,7 @@ header {
 .main_header_title h2 {
   font-family: "Noto Serif", serif;
 }
-.main_header_title span {
+.main_header_title .time {
   font-weight: bold;
   font-size: 20px;
   text-align: center;
